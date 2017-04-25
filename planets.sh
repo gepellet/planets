@@ -17,3 +17,7 @@ echo "Mars:"
 cat data/Mars
 echo
 
+## Venus
+eco "Venus:"
+cat data/Venus
+echo
